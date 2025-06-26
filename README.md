@@ -4,7 +4,8 @@ I'm a passionate software programmer and lifelong learner specializing in:
 - Data Science & Machine Learning & AI
 - Web Development
 - Mobile App Development
-- Currently I am working on Backend Development with Java.
+
+Currently I am working on Backend Development with Java.
 
 I enjoy exploring new technologies, solving challenging problems, and building meaningful projects.
 
