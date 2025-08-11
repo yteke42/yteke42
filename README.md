@@ -8,8 +8,8 @@ I am specializing in:
 
 
 - Data Science & Machine Learning & AI
+- Testing and Automation
 - Web Development
-- Mobile App Development
 
 Currently I am working on Backend Development with Java.
 
