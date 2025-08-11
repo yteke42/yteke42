@@ -48,7 +48,7 @@ I enjoy exploring new technologies, solving challenging problems, and building p
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yteke42&layout=compact&theme=dark" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yteke42&layout=compact&theme=dark&hide=jupyter%20notebook" alt="Top Langs">
   </a>
 </p>
 
