@@ -3,44 +3,34 @@
 </div>
 <h3 align="center" >I'm a passionate software developer and lifelong learner.</h3>  
 
-I am specializing in:  
+I build software and test automation systems.  
+Currently focused on:
 
+- Python & Selenium Test Automation
+- Backend development (Java / Spring fundamentals)
+- Data-driven applications and ML-powered tools
 
-
-- Data Science & Machine Learning & AI
-- Testing and Automation
-- Web Development
-
-Currently I am working on Backend Development with Java.
-
-I enjoy exploring new technologies, solving challenging problems, and building projects.
+I prioritize writing maintainable code, creating clear testing strategies, and delivering reliable systems.
 
 ---
 ### 🔧 Technologies & Tools I Use
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="40" alt="GitHub"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="NumPy"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height="40" alt="Pandas"/> &nbsp;
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="40" alt="Streamlit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="40" />
 </p>
 
 <p align="center">
-  Java &nbsp;|&nbsp;
-  HTML5& CSS3 &nbsp;|&nbsp;
-  Python &nbsp;|&nbsp;
-  Machine Learning &nbsp;|&nbsp;
-  LLMs &nbsp;|&nbsp;
-  Git &nbsp;|&nbsp;
-  GitHub &nbsp;|&nbsp;
-  NumPy & Pandas &nbsp;|&nbsp;
-  Streamlit
+  Python & Java • Selenium • PyTest • POM • Git •    
+  OOP • REST • SQL • Postgres •      
+  NumPy & Pandas • Streamlit
 </p>
-
 
 ---
 
