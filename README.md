@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>  Hi, I'm Yunus Teke 👋</h1>
+  <h1>  Hi, I'm Yunus Teke  </h1>
 </div>
-<h3 align="center" >I'm a passionate software developer and lifelong learner.</h3>  
+<h3 align="center" >Software Developer | Junior QA & Test Automation Engineer  </h3>  
 
 I build software and test automation systems.  
 Currently focused on:
