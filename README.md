@@ -29,7 +29,7 @@ I prioritize writing maintainable code, creating clear testing strategies, and d
 <p align="center">
   Python & Java • Selenium • PyTest • POM • Git •    
   OOP • REST • SQL • Postgres •      
-  NumPy & Pandas • Streamlit
+  NumPy & Pandas • OpenCV & OCR
 </p>
 
 ---
