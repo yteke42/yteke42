@@ -6,7 +6,7 @@
 I build software and test automation systems.  
 Currently focused on:
 
-- Python & Selenium Test Automation
+- Python & Automation
 - Backend development (Java / Spring fundamentals)
 - Data-driven applications and ML-powered tools
 
