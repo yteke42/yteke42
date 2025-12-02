@@ -46,7 +46,7 @@ I prioritize writing maintainable code, creating clear testing strategies, and d
 ### 📫 How to Reach Me
 
 - LinkedIn: [linkedin.com/in/yunusteke](https://linkedin.com/in/yunusteke)  
-- Email: yunus.teke@metu.edu.tr
+- Email: yunusteke4646@gmail.com
 
 ---
 
