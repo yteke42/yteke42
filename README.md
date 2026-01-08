@@ -1,14 +1,12 @@
 <div align="center">
   <h1>  Hi, I'm Yunus Teke  </h1>
 </div>
-<h3 align="center" >Junior Software & Automation Developer</h3>  
+<h3 align="center" >Software & Automation Developer</h3>  
 
 I build software and test automation systems.  
 Currently focused on:
 
-- Python & Automation
-- Backend development (Java / Spring fundamentals)
-- Data-driven applications and ML-powered tools
+- Python & Automation Systems
 
 I prioritize writing maintainable code, creating clear testing strategies, and delivering reliable systems.
 
