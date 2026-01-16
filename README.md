@@ -8,8 +8,9 @@ Currently focused on:
 
 - Python & Automation Systems
 
-I prioritize writing maintainable code, creating clear testing strategies, and delivering reliable systems.
+I prioritize writing maintainable code, creating clear testing strategies, and delivering reliable systems. 
 
+  
 ---
 ### 🔧 Technologies & Tools I Use
 
