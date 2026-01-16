@@ -32,15 +32,6 @@ I prioritize writing maintainable code, creating clear testing strategies, and d
 
 ---
 
-<h3 align="center">📊 My Most Used Languages</h3>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yteke42&layout=compact&theme=dark&hide=jupyter%20notebook" alt="Top Langs">
-  </a>
-</p>
-
-
 ### 📫 How to Reach Me
 
 - LinkedIn: [linkedin.com/in/yunusteke](https://linkedin.com/in/yunusteke)  
