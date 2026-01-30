@@ -6,7 +6,8 @@
 I build software and test automation systems.  
 Currently focused on:
 
-- Python & Automation Systems
+- Building full-stack Web Apps  
+- Learning Python & Automation Systems  
 
 I prioritize writing maintainable code, creating clear testing strategies, and delivering reliable systems. 
 
