@@ -33,7 +33,10 @@ I prioritize writing maintainable code, creating clear testing strategies, and d
 </p>
 
 ---  
-![Yunus's GitHub stats](https://github-readme-stats-git-master-yunustekes-projects.vercel.app/api?username=yteke42&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-tau-opal.vercel.app/api/top-langs/?username=yteke42&layout=compact&theme=tokyonight" />
+</p>
+
 
 ### 📫 How to Reach Me
 
