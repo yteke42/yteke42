@@ -1,48 +1,48 @@
 <div align="center">
-  <h1>  Hi, I'm Yunus Teke  </h1>
+  <h1>Hi, I'm Yunus Teke 👋</h1>
+  <h3>Software & Automation Developer</h3>
 </div>
-<h3 align="center" >Software & Automation Developer</h3>  
 
-I build software and test automation systems.  
-Currently focused on:
-
-- Building full-stack Web Apps  
-- Learning Python & Automation Systems  
-
-I prioritize writing maintainable code, creating clear testing strategies, and delivering reliable systems. 
-
+I build software and automation systems.   
+Currently working on: 
+- Developing and shipping web products
+- Building a mobile app using Flutter
   
----
-### 🔧 Technologies & Tools I Use
+## 🧠 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" /> 
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="40" />
-</p>
-
+  <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" height="40" />
+  <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" height="40" />
 <p align="center">
-  Python & Java • Selenium • PyTest • POM • Git •    
-  OOP • REST • SQL • Postgres •      
-  NumPy & Pandas • OpenCV & OCR
+  Python • PyAutoGUI • REST APIs • Postgres & SQL • Supabase • Vercel • Render • OOP • OpenCV • 
 </p>
-
----  
-<p align="center">
-  <img src="https://github-readme-stats-tau-opal.vercel.app/api/top-langs/?username=yteke42&layout=compact&theme=tokyonight" />
-</p>
-
-
-### 📫 How to Reach Me
-
-- LinkedIn: [linkedin.com/in/yunusteke](https://linkedin.com/in/yunusteke)  
-- Email: yunusteke4646@gmail.com
 
 ---
 
-Thanks for stopping by! 🚀
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-tau-opal.vercel.app/api/top-langs/?username=yteke42&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 📫 Connect With Me  
+
+Feel free to send me an e-mail!  
+
+- LinkedIn: https://linkedin.com/in/yunusteke  
+- Email: yunusteke4646@gmail.com  
+
+---
+
+Building systems. Shipping products. Automating everything I can. 🚀
