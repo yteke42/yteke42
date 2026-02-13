@@ -32,7 +32,8 @@ I prioritize writing maintainable code, creating clear testing strategies, and d
   NumPy & Pandas • OpenCV & OCR
 </p>
 
----
+---  
+![Yunus's GitHub stats](https://github-readme-stats-git-master-yunustekes-projects.vercel.app/api?username=yteke42&show_icons=true&theme=tokyonight)
 
 ### 📫 How to Reach Me
 
