@@ -3,10 +3,10 @@
   <h3>Software & Automation Developer</h3>
 </div>
 
-I build software and automation systems.   
-Currently working on: 
-- Developing and shipping web products
-- Building a mobile app using Flutter
+I build automation systems and internal tools.   
+Currently I'm focused on : 
+- Building automation tools and workflow systems
+- Developing AI applications, AI assistants
   
 ## 🧠 Tech Stack
 
@@ -23,7 +23,7 @@ Currently working on:
   <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" height="40" />
   <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" height="40" />
 <p align="center">
-  Python • PyAutoGUI • REST APIs • Postgres & SQL • Supabase • Vercel • Render • OOP • OpenCV • 
+  Python • PyAutoGUI • OpenCV • REST APIs • Postgres & SQL • Supabase • Render • AI/ML • LLMs  
 </p>
 
 ---
